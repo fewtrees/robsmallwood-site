@@ -4,6 +4,11 @@ title = "Rob Smallwood"
 theme = "PaperMod"
 enableRobotsTXT = true
 
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Keep content as "pages", not a blog-first site
 [pagination]
   pagerSize = 20
