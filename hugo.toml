@@ -1,0 +1,62 @@
+baseURL = "https://robsmallwood.co.uk/"
+languageCode = "en-gb"
+title = "Rob Smallwood"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+# Keep content as "pages", not a blog-first site
+paginate = 20
+
+[params]
+  env = "production"
+  description = "Programme assurance, architecture governance, and operational resilience for complex AWS platforms. Remote, vendor-neutral, non-hands-on."
+  author = "Rob Smallwood"
+
+  # Quiet, professional defaults
+  defaultTheme = "light"        # or "auto"
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowToc = false
+
+  # Remove “bloggy” signals where possible
+  disableSpecial1stPost = true
+  hideSummary = false
+
+  # Optional: show a simple contact icon row
+  # (PaperMod renders these as icons if you enable them)
+  # Feel free to leave blank
+  # [params.label]
+  #   text = "Rob Smallwood"
+  #   icon = ""
+  #   iconHeight = 18
+
+[menu]
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Case studies"
+    url = "/case-studies/"
+    weight = 20
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 40
+
+# Optional: if you want search later, enable outputs below + add a search page.
+# For now, keep it simple.
+# [outputs]
+#   home = ["HTML", "RSS", "JSON"]
+
