@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rob Smallwood</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rob Smallwood</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Department for Transport — Blue Badge service</title>
+      <link>http://localhost:1313/case-studies/dft-bluebadge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/case-studies/dft-bluebadge/</guid>
+      <description>Led delivery from alpha to production for a nationally significant digital service.</description>
+    </item>
+    <item>
+      <title>FutureLearn — Architecture governance for AWS re-platforming</title>
+      <link>http://localhost:1313/case-studies/futurelearn-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/case-studies/futurelearn-architecture/</guid>
+      <description>Defined AWS architecture direction and enabled adoption from C-suite to engineering teams.</description>
+    </item>
+    <item>
+      <title>GDS: One Login — Programme-level technical assurance</title>
+      <link>http://localhost:1313/case-studies/gds-onelogin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/case-studies/gds-onelogin/</guid>
+      <description>Assurance and governance across a large multi-team identity programme, improving resilience and risk visibility.</description>
+    </item>
+    <item>
+      <title>Stabilisation engagement — Restoring delivery control</title>
+      <link>http://localhost:1313/case-studies/stabilisation-example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/case-studies/stabilisation-example/</guid>
+      <description>Reset ways of working and reduced fragility in an existing production system.</description>
+    </item>
+  </channel>
+</rss>

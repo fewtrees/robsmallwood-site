@@ -1,4 +1,4 @@
----
+--
 title: "Rob Smallwood"
 ---
 
@@ -8,8 +8,8 @@ I help organisations reduce delivery and operational risk across multi-team AWS 
 
 I am **remote by default**, vendor-neutral, and focused on decision support rather than hands-on delivery.
 
-<a class="btn" href="/contact/">Book a 30-minute call</a>
-<a class="btn secondary" href="/services/">View services</a>
+
+[Book a 30-minute call](/contact/) · [View services](/services/)
 
 ---
 

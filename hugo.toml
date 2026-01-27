@@ -5,7 +5,8 @@ theme = "PaperMod"
 enableRobotsTXT = true
 
 # Keep content as "pages", not a blog-first site
-paginate = 20
+[pagination]
+  pagerSize = 20
 
 [params]
   env = "production"
