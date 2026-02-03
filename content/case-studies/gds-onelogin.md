@@ -6,10 +6,10 @@ summary: "Assurance and governance across a large multi-team identity programme,
 ## Context
 The One Login programme delivers single sign-on (SSO) and account management services across 46+ UK government departments, including HMRC, DfT, DEFRA, and MoD, supporting tens of millions of users. At peak, the programme comprised 600+ people across 40+ teams, spanning multiple lines of business and delivery streams.
 
-# Risk
+## Risk
 Without clear technical assurance, the programme faced material risk of architectural divergence, delivery blockage, and decision paralysis across multiple teams.
 
-# Intervention
+## Intervention
 Within the core identity-proofing capability, I provided senior technical assurance and advisory leadership, supporting programme leadership from Director level through senior and middle management, and down to local technical leads embedded within delivery teams.
 
 My role focused on ensuring that technical strategy, architectural posture, and delivery ambition remained aligned with programme objectives and were realistically achievable within existing capabilities. This required operating effectively across organisational boundaries: externally with security, architecture, and operations functions, and internally with product, delivery, and engineering teams.
