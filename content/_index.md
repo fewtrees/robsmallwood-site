@@ -4,7 +4,7 @@ title: "Rob Smallwood"
 
 # Independent technical oversight for complex AWS programmes
 
-I help organisations reduce delivery and operational risk across multi-team AWS platforms through **programme assurance, architecture governance, and operational resilience**.
+I help organisations run complex digital platforms well — aligning delivery, architecture, resilience, and ways of working so systems scale safely and predictably.
 
 I am **remote by default**, vendor-neutral, and focused on decision support rather than hands-on delivery.
 
@@ -37,16 +37,16 @@ I am **remote by default**, vendor-neutral, and focused on decision support rath
 ## Engagement models
 
 <div class="card">
-  <h3>AWS Programme Assurance</h3>
-  <p>Independent technical assurance for complex programmes. Fixed-scope, fixed-fee.</p>
+  <h3>Programme Technical Assurance</h3>
+  <p>Independent assurance for complex digital programmes, covering architecture, delivery health, operational resilience, and cross-team alignment. Fixed-scope, fixed-fee.</p>
 </div>
 <div class="card">
   <h3>Fractional Technical Advisor</h3>
-  <p>Ongoing senior judgement without hiring. Retainer model.</p>
+  <p>Ongoing technical oversight across delivery, architecture, and operations — without hiring. Retainer-based, advisory-only.</p>
 </div>
 <div class="card">
-  <h3>Stabilisation & Enablement</h3>
-  <p>Time-boxed intervention to restore control and establish sustainable practices.</p>
+  <h3>Programme Stabilisation & Enablement</h3>
+  <p>Time-boxed intervention to restore delivery control, address architectural and operational risks, and establish sustainable ways of working.</p>
 </div>
 
 ## Selected clients
