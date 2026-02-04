@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-If you’d like to discuss your programme’s risk profile, the simplest starting point is a short call.
+If you’d like to discuss your programme’s risk profile or difficulties, the simplest starting point is a short call.
 
 - Email: **rob@robsmallwood.co.uk**
 - LinkedIn: *(add link when ready)*
