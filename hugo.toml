@@ -20,7 +20,7 @@ enableRobotsTXT = true
 [params]
   env = "production"
   description = "Programme assurance, architecture governance, and operational resilience for complex AWS platforms. Remote, vendor-neutral, non-hands-on."
-  author = "Rob Smallwood"
+  author = ""
 
   # Quiet, professional defaults
   defaultTheme = "light"        # or "auto"
@@ -31,6 +31,7 @@ enableRobotsTXT = true
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowToc = false
+  ShowAuthor = false
 
   # Remove “bloggy” signals where possible
   disableSpecial1stPost = true
