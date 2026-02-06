@@ -77,7 +77,7 @@
 }
 
 .post-content a {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .post-meta .i18n_list li a,

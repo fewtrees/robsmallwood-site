@@ -15,7 +15,7 @@ I am **remote by default**, vendor-neutral, and focused on decision support rath
 
 ## When I am typically engaged
 
-{{< grid >}}
+{{<grid>}}
   {{< card >}}
     <h3>Programme scale is outpacing governance</h3>
     <p>Multiple teams are delivering, but architectural coherence and decision ownership are unclear.</p>
@@ -36,21 +36,21 @@ I am **remote by default**, vendor-neutral, and focused on decision support rath
 
 ## Engagement models
 
-{{<card>}}
+{{%card%}}
   <h3>Programme Technical Assurance</h3>
   <p>Independent assurance for complex digital programmes, covering architecture, delivery health, operational resilience, and cross-team alignment. Fixed-scope, fixed-fee.</p>
-  <a class="entry-link" aria-label="post link to Programme Technical Assurance" href="services/#1-programme-technical-assurance"></a>
-{{</card>}}
-{{<card>}}
+  <a class="entry-link no-underline" aria-label="post link to Programme Technical Assurance" href="services/#1-programme-technical-assurance"></a>
+{{%/card%}}
+{{%card%}}
   <h3>Fractional Technical Advisor</h3>
   <p>Ongoing technical oversight across delivery, architecture, and operations — without hiring. Retainer-based, advisory-only.</p>
   <a class="entry-link" aria-label="post link to Ongoing technical oversight across delivery, architecture, and operations" href="services/#2-fractional-technical-advisor-retainer"></a>
-{{</card>}}
-{{<card>}}
+{{%/card%}}
+{{%card%}}
   <h3>Programme Stabilisation & Enablement</h3>
   <p>Time-boxed intervention to restore delivery control, address architectural and operational risks, and establish sustainable ways of working.</p>
   <a class="entry-link" aria-label="post link to Programme Stabilisation & Enablement" href="services/#3-stabilisation--enablement-time-boxed"></a>
-{{</card>}}
+{{%/card%}}
 
 ## Selected clients
 
