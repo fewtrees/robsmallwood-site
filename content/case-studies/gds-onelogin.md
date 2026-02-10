@@ -1,27 +1,39 @@
 ---
 title: "GDS: One Login — Programme-level technical assurance"
 summary: "Assurance and governance across a large multi-team identity programme, improving resilience and risk visibility."
+weight: 10
 ---
 
 ## Context
-The One Login programme delivers single sign-on (SSO) and account management services across 46+ UK government departments, including HMRC, DfT, DEFRA, and MoD, supporting tens of millions of users. At peak, the programme comprised 600+ people across 40+ teams, spanning multiple lines of business and delivery streams.
 
-## Risk
-Without clear technical assurance, the programme faced material risk of architectural divergence, delivery blockage, and decision paralysis across multiple teams.
+GOV.UK OneLogin is a national-scale identity platform supporting millions of users across multiple government services, delivered by hundreds of practitioners across multiple teams.
 
-## Intervention
-Within the core identity-proofing capability, I provided senior technical assurance and advisory leadership, supporting programme leadership from Director level through senior and middle management, and down to local technical leads embedded within delivery teams.
+The programme operates in a highly regulated, high-risk environment where architectural coherence, delivery confidence, and operational resilience are critical.
 
-My role focused on ensuring that technical strategy, architectural posture, and delivery ambition remained aligned with programme objectives and were realistically achievable within existing capabilities. This required operating effectively across organisational boundaries: externally with security, architecture, and operations functions, and internally with product, delivery, and engineering teams.
+## The strategic challenge
 
-By maintaining a clear, end-to-end view of the programme’s technology posture, constraints, and risk profile, I provided decision-makers at all levels with clear, confidence-building advice. This assurance enabled leadership to progress decisions at pace, supported the successful delivery of 30+ concurrent projects, and underpinned the highest delivery cadence of any part of the programme, without compromising security, resilience, or operational stability.
+As the programme scaled, senior leadership needed confidence that technical strategy, architectural decisions, and delivery approaches would remain sustainable, secure, and aligned across teams.
 
-Key contributions
-- Provided trusted technical advice to programme leadership from Director to team level.
-- Acted as a bridge between central functions (security, architecture, operations) and delivery teams.
-- Ensured strategic intent was grounded in architectural and operational reality.
-- Proactively surfaced risks, constraints, and trade-offs to support timely decision-making.
-- Enabled sustained, high-velocity delivery within a highly regulated government environment.
+The challenge was ensuring **strategic coherence and risk control at scale**, rather than increasing delivery capacity.
 
-## Outcome
-A consistently high-performing identity capability, supported by strong technical assurance, enabling senior leadership to make informed decisions with confidence across a complex, multi-team government programme.
+## My role
+
+I was engaged as an independent senior technical advisor, operating above hands-on delivery.
+
+My role focused on technical strategy, programme-level assurance, and decision support for senior product, delivery, and engineering leadership.
+
+## Strategic contributions
+
+- Assessed and challenged technical strategy across architecture, delivery, and operations
+- Shaped strategic decisions around resilience, scalability, and security
+- Surfaced material delivery and operational risks and translated them into actionable leadership decisions
+- Provided independent assurance on architectural direction without owning implementation
+- Supported governance through clearer decision ownership and cross-team alignment
+- Advised on incident response strategy and longer-term operational improvements
+
+## Outcomes
+
+- Reduced delivery and operational risk through strategy-led assurance
+- Improved confidence in architectural direction among senior stakeholders
+- Clearer prioritisation driven by risk-informed decision-making
+- Greater consistency and scalability across multiple teams

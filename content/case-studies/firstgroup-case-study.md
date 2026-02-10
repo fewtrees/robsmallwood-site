@@ -1,24 +1,38 @@
 ---
 title: "FirstGroup — Group-wide rail technology appraisal and strategic recommendation"
 summary: "Independent technology appraisal to identify cost-saving opportunities, strengthen governance, and define a scalable group-wide software strategy."
+weight: 20
 ---
 
 ## Context
-FirstGroup operates a diverse portfolio of rail businesses supported by a broad mix of legacy and modern software solutions. Over time, these systems had evolved independently, creating increasing cost, complexity, and governance challenges. As the organisation looked to support future growth while maintaining operational control, senior leadership required a clear, objective view of the existing technology landscape.
 
-## Risk
-The absence of a coherent, group-wide technology strategy increased the risk of duplicated investment, inconsistent governance, and unmanaged technical debt.  
-**Without an evidence-based appraisal, the organisation faced continued cost inefficiencies and reduced ability to scale in a structured, controlled manner aligned to business goals.**
+FirstGroup operates multiple rail businesses with independently evolved digital platforms and delivery approaches.
 
-## Intervention
-I was engaged as an independent Architect / Technical Lead to investigate and appraise rail technology solutions across the group and provide senior leadership with clear, decision-ready recommendations.
+Leadership required a clear view of how technology strategy could support growth, cost control, and governance across the group.
 
-My work focused on:
-- Assessing existing rail software solutions for cost, architectural consistency, governance maturity, and operational sustainability.
-- Identifying opportunities for cost reduction through consolidation, standardisation, and improved governance.
-- Evaluating alignment between current technology capabilities and FirstGroup’s strategic business objectives.
-- Developing a conclusive, evidence-based recommendation for a group-wide software approach.
-- Presenting findings, options, and trade-offs in a format suitable for executive decision-making.
+## The strategic challenge
 
-## Outcome
-FirstGroup gained a clear and defensible understanding of its technology landscape, along with a practical recommendation for a structured, group-wide software strategy. This enabled senior leadership to make informed decisions with confidence, reduce unnecessary cost and complexity, and establish a more controlled and scalable foundation to support future business growth.
+Technology decisions were fragmented across operating companies, increasing cost, duplication, and governance complexity.
+
+Senior leadership needed an **evidence-based strategic recommendation** rather than incremental local optimisation.
+
+## My role
+
+I was engaged as an independent technical advisor to assess existing solutions and provide strategic recommendations at group level.
+
+My role focused on technical strategy, option appraisal, and risk-informed decision support.
+
+## Strategic contributions
+
+- Assessed existing technical approaches across multiple rail organisations
+- Evaluated strategic options against cost, scalability, and governance criteria
+- Identified structural and operational risks in the existing landscape
+- Produced a clear, evidence-based recommendation for group-wide direction
+- Advised leadership on trade-offs and long-term implications
+
+## Outcomes
+
+- Clear strategic direction for group-wide technology decisions
+- Improved governance and cost transparency
+- Reduced risk of fragmented or incompatible future solutions
+- Stronger alignment between technology strategy and business goals

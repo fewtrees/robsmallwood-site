@@ -4,21 +4,32 @@ summary: "Architecture definition for a cloud-based student mobile platform, int
 ---
 
 ## Context
-A higher education institution sought to deliver a student-facing mobile application that would provide a single, consistent point of access to core student services. The solution needed to integrate with existing legacy HE systems and a CMS platform, while remaining flexible enough to support future functional and technical evolution. AWS was engaged as a strategic platform partner for the initiative.
 
-## Risk
-The institution faced the risk of delivering a tightly coupled, short-term solution that would be difficult to evolve or operate at scale.  
-**Without a clearly defined and formally agreed architecture, there was material risk of integration fragility, limited extensibility, and increased long-term operational and maintenance cost.**
+The University of East London sought to deliver a student-facing mobile application providing a single point of access to services and information.
 
-## Intervention
-I worked in an advisory architecture role alongside AWS to develop and formalise the target architecture for the student mobile platform.
+The solution needed to integrate legacy systems while supporting future evolution.
 
-My work focused on:
-- Defining a scalable, cloud-based architecture using AWS-supported mid- and back-end frameworks.
-- Establishing clear integration patterns for legacy HE systems and the existing CMS.
-- Ensuring the architecture supported mobile application needs while remaining decoupled from backend evolution.
-- Aligning technical design with institutional goals, delivery constraints, and future roadmap considerations.
-- Providing clarity and assurance to stakeholders on feasibility, trade-offs, and long-term sustainability.
+## The strategic challenge
 
-## Outcome
-The institution gained a clear, formally defined architecture that provided a robust foundation for the student mobile application. The approach reduced integration and operational risk, enabled a consistent student experience, and established a flexible platform capable of supporting future digital services and evolution without requiring significant rework.
+The university required confidence that the proposed architecture would support current needs without limiting future capability.
+
+Strategic risks included integration complexity, vendor dependency, and long-term maintainability.
+
+## My role
+
+I was engaged as an architect and technical advisor working alongside AWS and university stakeholders.
+
+My role focused on validating technical strategy and architectural direction.
+
+## Strategic contributions
+
+- Assessed strategic options for mobile, backend, and integration architecture
+- Validated architectural decisions against long-term sustainability goals
+- Identified integration and evolution risks
+- Advised stakeholders on trade-offs and future-proofing decisions
+
+## Outcomes
+
+- Clear, validated technical strategy for the student platform
+- Reduced risk around legacy integration and future change
+- Stronger confidence in architectural direction prior to delivery

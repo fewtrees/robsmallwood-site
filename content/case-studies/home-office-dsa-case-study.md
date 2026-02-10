@@ -1,24 +1,36 @@
 ---
 title: "Home Office — Digital services strategy assurance review"
-summary: "Independent assurance of digital service strategy and cross-functional delivery approach to support effective rollout of new business capabilities."
+summary: "Assurance of digital service strategy and cross-functional delivery approach to support effective rollout of new business capabilities."
+weight: 30
 ---
 
 ## Context
-The Home Office undertook a Digital Services Strategy Assessment (DSA) to evaluate how effectively its digital services strategy supported the delivery of new business requirements. This included understanding how multiple capabilities across the organisation contributed to the rollout of working digital services in a complex, regulated government environment.
 
-## Risk
-The delivery of new business capabilities relied on coordination across multiple teams, functions, and technical domains.  
-**Without clear assurance of the digital service strategy and cross-functional delivery approach, there was material risk of fragmented implementation, delayed rollout, and misalignment between strategic intent and operational execution.**
+The Home Office DSA programme involved delivering new digital capabilities across multiple services within a regulated government environment.
 
-## Intervention
-I supported the Home Office in the creation of the DSA Assurance Review, operating in an independent advisory capacity.
+The programme required assurance that digital service strategy and rollout plans were realistic and aligned across capabilities.
 
-My work focused on:
-- Reviewing the existing digital service strategy and its alignment to business objectives.
-- Assessing how delivery and technical capabilities implemented new business requirements in practice.
-- Evaluating cross-functional ways of working across product, delivery, technology, and operations.
-- Examining rollout plans and delivery dependencies to identify risks and constraints.
-- Providing clear, evidence-based assurance and recommendations to support confident decision-making.
+## The strategic challenge
 
-## Outcome
-The Home Office gained a clearer understanding of the effectiveness of its digital service strategy and how it translated into delivery and rollout outcomes. The assurance review highlighted strengths, surfaced risks and gaps, and provided actionable guidance to improve coordination, reduce delivery risk, and support more predictable and effective implementation of new digital services.
+Leadership needed confidence that the digital service strategy would support new business requirements while remaining deliverable, scalable, and compliant.
+
+The risk lay in misalignment between strategic intent and practical execution across teams.
+
+## My role
+
+I was engaged to conduct an independent assurance review of digital service strategy and delivery approach.
+
+My role focused on strategy validation, cross-functional alignment, and risk assessment.
+
+## Strategic contributions
+
+- Assessed the digital service strategy against delivery and operational realities
+- Reviewed how capabilities implemented new business requirements
+- Identified risks in rollout sequencing and cross-functional coordination
+- Advised leadership on feasibility, dependencies, and strategic adjustments
+
+## Outcomes
+
+- Improved leadership confidence in digital service strategy
+- Clearer understanding of rollout risks and dependencies
+- Better alignment between strategic objectives and delivery plans

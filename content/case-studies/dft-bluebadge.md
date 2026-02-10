@@ -4,7 +4,7 @@ summary: "Led delivery from alpha to production for a nationally significant dig
 ---
 
 ## Context
-Public-sector digital service delivered from alpha through to production in a cloud-native AWS environment.
+Public-sector digital service delivering a national account, assessment and provision service for blue-badge holders
 
 ## Risk
 Delivery required alignment across a diverse multidisciplinary team and clarity of approach to meet service expectations at scale.
